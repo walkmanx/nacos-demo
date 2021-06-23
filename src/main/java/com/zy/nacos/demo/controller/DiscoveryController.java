@@ -27,3 +27,4 @@ public class DiscoveryController {
         return namingService.getAllInstances(serviceName);
     }
 }
+
